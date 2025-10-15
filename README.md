@@ -414,9 +414,8 @@ footer {
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-06 204803.png>)
-![alt text](<Screenshot 2025-10-06 205030.png>)
-![alt text](<Screenshot 2025-10-06 205100.png>)
-![alt text](<Screenshot 2025-10-06 205114.png>)
-##RESULT:
+![alt text](<Screenshot 2025-10-15 132150.png>)
+![alt text](<Screenshot 2025-10-15 132133.png>)
+![alt text](<Screenshot 2025-10-15 132205.png>)
+![alt text](<Screenshot 2025-10-15 132219.png>)##RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
